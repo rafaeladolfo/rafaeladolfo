@@ -2,10 +2,10 @@
 
 ### Blogs posts :books:
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI navigation link](https://medium.com/dextra-digital/swiftui-navigation-link-ef862bec4d9?source=rss-c76da6854746------2)
-- [SwiftUI + MVVM + Observables](https://medium.com/dextra-digital/swiftui-mvvm-observables-78103b0fa9a6?source=rss-c76da6854746------2)
-- [Criando listas usando SwiftUI](https://medium.com/dextra-digital/criando-listas-usando-swiftui-11cb1a66963d?source=rss-c76da6854746------2)
 - [SwiftUI navigation link](https://dev.to/rafaeladolfo/swiftui-navigation-link-69b)
+- [MVVM + Observables](https://dev.to/rafaeladolfo/mvvm-observables-4jin)
+- [Display a list using SwiftUI](https://dev.to/rafaeladolfo/display-a-list-using-swiftui-59on)
+- [Deploy .net core API using docker compose - Part 1](https://dev.to/rafaeladolfo/deploy-net-core-api-using-docker-compose-part-1-2ink)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
