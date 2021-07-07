@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaeladolfo&label=Profile%20views&color=0e75b6&style=flat" alt="rafaeladolfo" /> </p>
 
-### Blogs posts
+### Blogs posts :books:
 <!-- BLOG-POST-LIST:START -->
 - [SwiftUI navigation link](https://medium.com/dextra-digital/swiftui-navigation-link-ef862bec4d9?source=rss-c76da6854746------2)
 - [SwiftUI + MVVM + Observables](https://medium.com/dextra-digital/swiftui-mvvm-observables-78103b0fa9a6?source=rss-c76da6854746------2)
