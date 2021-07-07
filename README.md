@@ -2,6 +2,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SwiftUI navigation link](https://medium.com/dextra-digital/swiftui-navigation-link-ef862bec4d9?source=rss-c76da6854746------2)
+- [SwiftUI + MVVM + Observables](https://medium.com/dextra-digital/swiftui-mvvm-observables-78103b0fa9a6?source=rss-c76da6854746------2)
+- [Criando listas usando SwiftUI](https://medium.com/dextra-digital/criando-listas-usando-swiftui-11cb1a66963d?source=rss-c76da6854746------2)
+- [SwiftUI navigation link](https://dev.to/rafaeladolfo/swiftui-navigation-link-69b)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
