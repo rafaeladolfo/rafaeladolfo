@@ -1,1 +1,1 @@
-# - [Website/Portfolio](https://www.rafaeladolfo.com)
+# [Website/Portfolio](https://www.rafaeladolfo.com)
